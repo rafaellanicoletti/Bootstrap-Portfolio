@@ -22,13 +22,14 @@ h2 {
     color: #4aaaa5;
     font-size: 30px;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    margin: 30px;
+    margin: 10px;
+    font-weight: bold;
 
 }
 
-div {
+/* div {
     float: right;
-}
+} */
 
 body {
     color: #777777;
@@ -75,32 +76,31 @@ p {
      padding-bottom: 20px;
  }
 
- a {
+ /* a {
      color: #666666;
      text-decoration: none;
- }
+ } */
 
-
+/* 
  form {
      margin-left: 20px;
      padding-bottom: 60px;
      
- }
+ } */
 
  input[type=text] {
      width: 900px;
-     height: 30px;
+     height: 30px;  
  }
 
- input[type=message] {
+ 
+ /* input[type=message] {
      width: 900px;
      height: 200px;
      
- }
+ } */
 
  input[type=submit] {
-     width: 100px;
-     height: 40px;
      background-color: #4aaaa5;
      font-size: 15pt;
      color: #ffffff;
